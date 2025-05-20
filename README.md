@@ -1,2 +1,2 @@
 # CUDA_C_Best_Practices_Guide-In-Chinese
-NVIDIA 官方文档《CUDA_C_Best_Practices_Guide》中文翻译
+This is a Chinese translation of the 《Cuda C Best Practices Guide》
