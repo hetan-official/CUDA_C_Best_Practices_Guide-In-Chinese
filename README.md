@@ -1,2 +1,2 @@
-# CUDA_C_Best_Practices_Guide-In-Chinese
+# Cuda C++ 最佳实践指南
 This is a Chinese translation of the 《Cuda C Best Practices Guide》
