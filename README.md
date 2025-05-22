@@ -1,2 +1,27 @@
 # Cuda C++ 最佳实践指南
-This is a Chinese translation of the 《Cuda C Best Practices Guide》
+## 本项目为《CUDA C++ Best Practices Guide》的中文翻译&& 个人解读
+### 比照[原文](https://docs.nvidia.com/cuda/archive/11.4.0/cuda-c-best-practices-guide/index.html#optimize)，进行了细致校对，修正部分语法问题
+### 结合本人Cuda C++开发与效率提升经验，标注了需要重点关注的内容
+
+## Content
+-  前言
+-  第1章：评估您的应用程序
+-  第2章：异构计算
+-  第3章：程序性能评估
+-  第4章：程序并行化
+-  第5章：着手程序并行化
+-  第6章：正确地并行化
+-  第7章：优化CUDA程序
+-  第8章：性能指标
+-  第9章：显存带宽优化
+-  第10章：参数配置优化
+-  第11章：指令优化
+-  第12章：控制流
+-  第13章：部署CUDA程序
+-  第14章：理解编码环境
+-  第15章：CUDA兼容性开发者指南
+-  第16章：部署前准备
+-  第17章：部署常规工具
+-  附录A：建议和最佳实践
+-  附录B：NVCC编译器选项
+
